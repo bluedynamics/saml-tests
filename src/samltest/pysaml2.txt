@@ -1,2 +1,2 @@
     >>> import saml2
-    >>> interact(locals)
+    >>> interact(locals())
